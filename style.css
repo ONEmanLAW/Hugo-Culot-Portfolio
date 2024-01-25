@@ -427,7 +427,7 @@ section {
 
 .portfolio-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill,minmax(520px, 1fr));
+  grid-template-columns: repeat(auto-fill,minmax(525px, 1fr));
   gap: 1rem; 
 }
 
@@ -568,7 +568,7 @@ form .btn{
 
 .skill-wrap{
   display: grid;
-  grid-template-columns: repeat(auto-fit,minmax(275px , auto));
+  grid-template-columns: repeat(auto-fit,minmax(300px , auto));
   justify-content: center;
   grid-gap: 2.5rem;
 }
