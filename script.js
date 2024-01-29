@@ -147,6 +147,7 @@ window.addEventListener("scroll",activeMenu);
 // Scroll Reveal                   //
 /////////////////////////////////////
 
+/*
 ScrollReveal({ 
   distance:"100px",
   duration:2500,
@@ -159,3 +160,4 @@ ScrollReveal().reveal('.hero-info,.main-text,.proposal,.heading', { origin: "top
 ScrollReveal().reveal('.about-img,.filter-button,.contact-info', { origin: "left" });
 ScrollReveal().reveal('.about-content,.skills', { origin: "right" });
 ScrollReveal().reveal('.allServices,.portfolio-gallery,.blog-box,footer,.img-hero', { origin: "bottom" });
+*/
