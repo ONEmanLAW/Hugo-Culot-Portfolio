@@ -696,12 +696,14 @@ footer{
 
 .main-text .heading {
   color: var(--main-color);
+  font-size: 25px;
 }
 
 .main-text span {
   color: var(--font-color);
   font-weight: 200;
   text-transform: uppercase;
+  font-size: 20px;
 }
 
 .proposal{
