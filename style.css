@@ -307,7 +307,7 @@ section {
   position: relative;
   width: 400px;
   height: auto;
-  border-radius: 100px;
+  border-radius: 50px;
   z-index: 10;
 }
 
@@ -331,7 +331,7 @@ section {
 .about .about-img .aboutHero {
   width: 26vw;
   height: auto;
-  border-radius: 100px;
+  border-radius: 50px;
 }
 
 .about-content {
