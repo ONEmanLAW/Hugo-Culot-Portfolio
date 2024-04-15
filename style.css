@@ -117,7 +117,7 @@ ul.navList {
 }
 
 .menu-icon.active::before {
-  transform: rotate(-45deg) translate(-6px, 6px);
+  transform: rotate(-45deg) translate(-5px, 5px);
 }
 
 .menu-icon.active::after {
